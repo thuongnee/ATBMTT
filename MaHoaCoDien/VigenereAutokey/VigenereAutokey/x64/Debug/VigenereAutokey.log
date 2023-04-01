@@ -1,0 +1,4 @@
+﻿  Autokey.cpp
+D:\Ky2Nam3\ATBMTT\Code\MaHoaCoDien\VigenereAutokey\VigenereAutokey\Autokey.cpp(8,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Ky2Nam3\ATBMTT\Code\MaHoaCoDien\VigenereAutokey\VigenereAutokey\Autokey.cpp(48,6): warning C4101: 'length': unreferenced local variable
+  VigenereAutokey.vcxproj -> D:\Ky2Nam3\ATBMTT\Code\MaHoaCoDien\VigenereAutokey\x64\Debug\VigenereAutokey.exe
